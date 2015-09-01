@@ -12,3 +12,11 @@
 .nav > li > .nav {
   margin-left: 10px;
 }
+
+.affix {
+  top: 0;
+}
+
+.affix-bottom {
+  position: absolute;
+}
